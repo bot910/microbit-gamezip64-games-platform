@@ -1,6 +1,3 @@
-
-> Open this page at [https://bot910.github.io/microbit-gamezip64-games-platform/](https://bot910.github.io/microbit-gamezip64-games-platform/)
-
 ## Not an extension
 
 This repository is not an extension for the microbit makecode editor
