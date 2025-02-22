@@ -1,16 +1,31 @@
-## Not an extension
+# microbit gamezip64 games platform
+This is a simple game platform for running a few simple games on your microbit gamezip 64, to run this project a BBC microbit and a kritonik gamezip64 are required.
 
-This repository is not an extension for the microbit makecode editor
+### ! Not an extension
 
-## Edit this project
+This repository is not an extension for the microbit makecode editor but a project you can run
 
-To edit this repository in MakeCode.
+## Run this project 
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/bot910/microbit-gamezip64-games-platform** and click import
+Here is the different ways to run this project on your microbit:
 
-#### Metadata (used for search, rendering)
+### Import project
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click on **Import** then click on **Import URL**
+* Paste **https://github.com/bot910/microbit-gamezip64-games-platform** and click import
+* Click on download and download the hex file to your microbit
+
+### Python file
+
+* Copy the code of the main.py file
+* Cpen [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Make a new project and paste the code from the main.py file
+* Click on download and download the hex file to your microbit
+
+### Javascript file
+
+* Copy the code of the main.ts file
+* Cpen [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Make a new project and paste the code from the main.ts file
+* Click on download and download the hex file to your microbit
