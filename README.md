@@ -1,14 +1,9 @@
 
 > Open this page at [https://bot910.github.io/microbit-gamezip64-games-platform/](https://bot910.github.io/microbit-gamezip64-games-platform/)
 
-## Use as Extension
+## Not an extension
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/bot910/microbit-gamezip64-games-platform** and import
+This repository is not an extension for the microbit makecode editor
 
 ## Edit this project
 
