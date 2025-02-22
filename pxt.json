@@ -1,0 +1,39 @@
+{
+    "name": "multi games platform",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-kitronik-zip-64": "github:kitronikltd/pxt-kitronik-zip-64#v0.1.4",
+        "ScrollText": "github:makecode-extensions/scrolltext#v1.4.0",
+        "pxt-flexfx": "github:grandpabond/pxt-flexfx#v2.2.7",
+        "datalogger": "*",
+        "audio-recording": "*",
+        "data-streamer": "github:microsoft/pxt-data-streamer#v0.1.3",
+        "filesystem": "github:microsoft/pxt-filesystem#v0.10.0",
+        "Wait Until Custom Blocks": "github:teacherpinky/wait-until-blocks#v0.1.12",
+        "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v7.0.57",
+        "tag": "v7.0.57",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/1a9e10ee33883477990f6bc7451dae38318586e3",
+        "target": "7.0.57",
+        "pxt": "11.1.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
